@@ -1,0 +1,12 @@
+{
+    "name": "financial-edge/fe-health-check",
+    "description": "Adds a health check endpoint",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Joshua Sullivan-Small",
+            "email": "joshua.sullivansmall@fe.training"
+        }
+    ],
+    "require": {}
+}
